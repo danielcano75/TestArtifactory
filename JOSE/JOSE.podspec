@@ -17,7 +17,7 @@ s.license      = "Copyright (c) 2018, MasterCard International Incorporated and/
 
 # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-s.source = { :path =>  "../JOSE" }
+s.source = { :git => "https://github.com/danielcano75/TestArtifactory/tree/master/JOSE", :tag => "1.0.0" }
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
